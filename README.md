@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Flicker786
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning wed and ios
-- 💞️ I’m looking to collaborate on any platform
+- 👀 I’m interested in Blockchain , Cloud Computing
+- 🌱 I’m currently learning Web and Ios
+- 💞️ I’m looking to collaborate on any Platform
 - 📫 How to reach me rgvlog786@gmail.com
 
 <!---
