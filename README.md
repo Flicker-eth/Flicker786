@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Flicker786
+- 👋 Hi, I’m @Flicker
 - 👀 I’m interested in Blockchain , Cloud Computing
 - 🌱 I’m currently learning Web and Ios
 - 💞️ I’m looking to collaborate on any Platform
