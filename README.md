@@ -2,7 +2,8 @@
 
 
 
-![gitmain](https://user-images.githubusercontent.com/69352034/187039394-1b25d40a-2eb2-4238-8714-b8facde824c4.png)
+![gitmain2](https://user-images.githubusercontent.com/69352034/187039708-ccf197e4-aee4-4145-baa6-90dbd5495ccb.png)
+
 
 
 
