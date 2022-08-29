@@ -2,7 +2,8 @@
 
 
 
-![gitmain2](https://user-images.githubusercontent.com/69352034/187039708-ccf197e4-aee4-4145-baa6-90dbd5495ccb.png)
+![DevOps](https://user-images.githubusercontent.com/69352034/187269693-665e2e46-eb87-4f92-8cb3-a7e8a32492d1.png)
+
 
 
 
